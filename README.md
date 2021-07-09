@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Aayushi Singh
 ---
-[![Visits Badge](
-https://badges.pufler.dev/visits/aayushisingh11/aayushisingh11)]
+![Visits Badge](
+https://badges.pufler.dev/visits/aayushisingh11/aayushisingh11)
 
 <!--
 **aayushisingh11/aayushisingh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
