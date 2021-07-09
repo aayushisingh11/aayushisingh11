@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Aayushi Singh
 ---
-![Visits Badge](https://komarev.com/ghpvc/?username=aayushisingh11)
+![](https://komarev.com/ghpvc/?username=aayushisingh11&colour=blue)
 
 <!--
 **aayushisingh11/aayushisingh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
