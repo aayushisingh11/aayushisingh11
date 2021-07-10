@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Aayushi Singh
 ---
-![](https://komarev.com/ghpvc/?username=aayushisingh11&colour=blue) Times Developers & Programmers visit here.
+![](https://komarev.com/ghpvc/?username=aayushisingh11&colour=blue) Times Developers & Programmers visited here.
 
 👯 I’m looking to collaborate on Web Development and Python projects.
 
@@ -17,7 +17,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
- ⚡ Fun fact: I love reading books📚
+ ⚡ Fun fact: I love reading books📚 & exploring🧐
 <!--
 **aayushisingh11/aayushisingh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
