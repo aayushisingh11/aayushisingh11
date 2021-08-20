@@ -2,7 +2,7 @@
 ---
 ![](https://komarev.com/ghpvc/?username=aayushisingh11&colour=blue) Times Developers & Programmers visited here.
 
-👯 I’m looking to collaborate on Web Development and Python projects.
+👯 I’m looking to collaborate on Web Development and React projects.
 
 📫 How to reach me:
 <p align='center'>
