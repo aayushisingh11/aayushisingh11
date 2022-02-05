@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Aayushi Singh
 ---
-![](https://komarev.com/ghpvc/?username=aayushisingh11&colour=blue) Times Developers & Programmers visited here.
+![](https://komarev.com/ghpvc/?username=aayushisingh11&colour=blue) Times Developers visited here.
 
 👯 I’m looking to collaborate on Web Development and React projects.
 
